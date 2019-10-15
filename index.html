@@ -143,7 +143,7 @@ h2 {
                  </td>
               </tr>
 	      <tr>
-                 <td><b>Mixed data Mandarin+extraEnglish (ZH-extraEN) </b></td>
+                 <td><b>Mixed data Mandarin+extraEnglish (ZHEN-ZH+extraEN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_zh_sato_AZ_29.wav" type="audio/wav">
@@ -160,7 +160,7 @@ h2 {
 			 <h2> N/A </h2>
               </tr>
 	      <tr>
-                 <td><b>Mixed English+extraMandarin (EN-extraZH) </b></td>
+                 <td><b>Mixed English+extraMandarin (ZHEN-EN+extraZH) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_en_gof_AZ_29.wav" type="audio/wav">
@@ -255,7 +255,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data Mandarin+extraEnglish (ZH-extraEN) </b></td>
+                 <td><b>Mixed data Mandarin+extraEnglish (ZHEN-ZH+extraEN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_zh_sato_AZ_30.wav" type="audio/wav">
@@ -272,7 +272,7 @@ h2 {
 			 <h2> N/A </h2>
               </tr>
 	      <tr>
-                 <td><b>Mixed English+extraMandarin (EN-extraZH) </b></td>
+                 <td><b>Mixed English+extraMandarin (ZHEN-EN+extraZH) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_en_gof_AZ_30.wav" type="audio/wav">
@@ -366,7 +366,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data Mandarin+extraEnglish (ZH-extraEN) </b></td>
+                 <td><b>Mixed data Mandarin+extraEnglish (ZHEN-ZH+extraEN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_zh_sato_AZ_31.wav" type="audio/wav">
@@ -384,7 +384,7 @@ h2 {
 		 </td>
               </tr>
               <tr>
-                 <td><b>Mixed data English+extraMandarin (EN-extraZH) </b></td>
+                 <td><b>Mixed data English+extraMandarin (ZHEN-EN+extraZH) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_en_gof_AZ_31.wav" type="audio/wav">
@@ -489,7 +489,7 @@ h2 {
                  </td>
               </tr>
 	      <tr>
-                 <td><b>Mixed data Korean+extraEnglish (KO-extraEN) </b></td>
+                 <td><b>Mixed data Korean+extraEnglish (KOEN-KO+extraEN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_ko_sato_sentence_000001.wav" type="audio/wav">
@@ -507,7 +507,7 @@ h2 {
 		 </td>
               </tr>
               <tr>
-                 <td><b>Mixed data English+extraKorean (EN-extraKO) </b></td>
+                 <td><b>Mixed data English+extraKorean (KOEN-EN+extraKO) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_en_ygk_sentence_000001.wav" type="audio/wav">
@@ -599,7 +599,7 @@ h2 {
                  </td>
               </tr>
 	      <tr>
-                 <td><b>Mixed data Korean+extraEnglish (KO-extraEN) </b></td>
+                 <td><b>Mixed data Korean+extraEnglish (KOEN-KO+extraEN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_ko_sato_sentence_000002.wav" type="audio/wav">
@@ -617,7 +617,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data English+extraKorean (EN-extraKO) </b></td>
+                 <td><b>Mixed data English+extraKorean (KOEN-EN+extraKO) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_en_ygk_sentence_000002.wav" type="audio/wav">
@@ -709,7 +709,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data Korean+extraEnglish (KO-extraEN) </b></td>
+                 <td><b>Mixed data Korean+extraEnglish (KOEN-KO+extraEN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_ko_sato_sentence_000004.wav" type="audio/wav">
@@ -727,7 +727,7 @@ h2 {
                  </td>
               </tr>
 	      <tr>
-                 <td><b>Mixed data English+extraKorean (EN-extraKO) </b></td>
+                 <td><b>Mixed data English+extraKorean (KOEN-EN+extraKO) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_en_ygk_sentence_000004.wav" type="audio/wav">
