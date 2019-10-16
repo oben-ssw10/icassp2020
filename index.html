@@ -80,7 +80,7 @@ h2 {
 	      </thead>
 	      <tbody>
               <tr>
-                 <td><b>Mandarin data only (ZHEN-ZH) </b></td>
+                 <td><b>Mandarin data only (ZH) </b></td>
                  <td bgcolor="#ffffff">
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_zh_AZ_29.wav" type="audio/wav">
@@ -101,7 +101,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>English data only (ZHEN-EN) </b></td>
+                 <td><b>English data only (EN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_en_AZ_29.wav" type="audio/wav">
@@ -122,7 +122,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data Mandarin+English (Mixed ZHEN)</b></td>
+                 <td><b>Mixed data Mandarin+English (ZH + EN)</b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_zhen_AZ_29.wav" type="audio/wav">
@@ -143,7 +143,7 @@ h2 {
                  </td>
               </tr>
 	      <tr>
-                 <td><b>Mixed data Mandarin+extraEnglish (ZHEN-ZH+extraEN) </b></td>
+                 <td><b>Mixed data Mandarin+extraEnglish (ZH + EN*) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_zh_sato_AZ_29.wav" type="audio/wav">
@@ -160,7 +160,7 @@ h2 {
 			 <h2> N/A </h2>
               </tr>
 	      <tr>
-                 <td><b>Mixed English+extraMandarin (ZHEN-EN+extraZH) </b></td>
+                 <td><b>Mixed English+extraMandarin (EN + ZH*) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_en_gof_AZ_29.wav" type="audio/wav">
@@ -192,7 +192,7 @@ h2 {
 		 <th>Japanese</th>
               </tr>
               <tr>
-                 <td><b>Mandarin data only (ZHEN-ZH) </b></td>
+                 <td><b>Mandarin data only (ZH) </b></td>
                  <td bgcolor="#ffffff">
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_zh_AZ_30.wav" type="audio/wav">
@@ -213,7 +213,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>English data only (ZHEN-EN) </b></td>
+                 <td><b>English data only (EN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_en_AZ_30.wav" type="audio/wav">
@@ -234,7 +234,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data Mandarin+English (Mixed ZHEN) </b></td>
+                 <td><b>Mixed data Mandarin+English (ZH + EN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_zhen_AZ_30.wav" type="audio/wav">
@@ -255,7 +255,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data Mandarin+extraEnglish (ZHEN-ZH+extraEN) </b></td>
+                 <td><b>Mixed data Mandarin+extraEnglish (ZH + EN*) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_zh_sato_AZ_30.wav" type="audio/wav">
@@ -272,7 +272,7 @@ h2 {
 			 <h2> N/A </h2>
               </tr>
 	      <tr>
-                 <td><b>Mixed English+extraMandarin (ZHEN-EN+extraZH) </b></td>
+                 <td><b>Mixed English+extraMandarin (EN + ZH*) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_en_gof_AZ_30.wav" type="audio/wav">
@@ -303,7 +303,7 @@ h2 {
 		 <th>Japanese</th>
               </tr>
               <tr>
-                 <td><b>Mandarin data only (ZHEN-ZH) </b></td>
+                 <td><b>Mandarin data only (ZH) </b></td>
                  <td bgcolor="#ffffff">
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_zh_AZ_31.wav" type="audio/wav">
@@ -324,7 +324,7 @@ h2 {
                  </td>
               </tr>
              <tr>
-                 <td><b>English (ZHEN-EN) </b></td>
+                 <td><b>English data only (EN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_en_AZ_31.wav" type="audio/wav">
@@ -345,7 +345,7 @@ h2 {
                  </td>
               </tr>
 	      <tr>
-                 <td><b>Mixed data Mandarin+English (Mixed ZHEN)</b></td>
+                 <td><b>Mixed data Mandarin+English (ZH + EN)</b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_zhen_AZ_31.wav" type="audio/wav">
@@ -366,7 +366,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data Mandarin+extraEnglish (ZHEN-ZH+extraEN) </b></td>
+                 <td><b>Mixed data Mandarin+extraEnglish (ZH + EN*) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_zh_sato_AZ_31.wav" type="audio/wav">
@@ -384,7 +384,7 @@ h2 {
 		 </td>
               </tr>
               <tr>
-                 <td><b>Mixed data English+extraMandarin (ZHEN-EN+extraZH) </b></td>
+                 <td><b>Mixed data English+extraMandarin (EN + ZH*) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioA/zhen_en_gof_AZ_31.wav" type="audio/wav">
@@ -426,7 +426,7 @@ h2 {
 		 <th>Japanese</th>
               </tr>
               <tr>
-                 <td><b>Korean data only (KOEN-KO) </b></td>
+                 <td><b>Korean data only (KO) </b></td>
                  <td bgcolor="#ffffff">
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_ko_sentence_000001.wav" type="audio/wav">
@@ -447,7 +447,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>English data only (KOEN-EN) </b></td>
+                 <td><b>English data only (EN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_en_sentence_000001.wav" type="audio/wav">
@@ -468,7 +468,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data Korean+English (Mixed KOEN)</b></td>
+                 <td><b>Mixed data Korean+English (KO + EN)</b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_koen_sentence_000001.wav" type="audio/wav">
@@ -489,7 +489,7 @@ h2 {
                  </td>
               </tr>
 	      <tr>
-                 <td><b>Mixed data Korean+extraEnglish (KOEN-KO+extraEN) </b></td>
+                 <td><b>Mixed data Korean+extraEnglish (KO + EN*) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_ko_sato_sentence_000001.wav" type="audio/wav">
@@ -507,7 +507,7 @@ h2 {
 		 </td>
               </tr>
               <tr>
-                 <td><b>Mixed data English+extraKorean (KOEN-EN+extraKO) </b></td>
+                 <td><b>Mixed data English+extraKorean (EN + KO*) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_en_ygk_sentence_000001.wav" type="audio/wav">
@@ -536,7 +536,7 @@ h2 {
 		 <th>Japanese</th>
               </tr>
               <tr>
-                 <td><b>Korean data only (KOEN-KO) </b></td>
+                 <td><b>Korean data only (KO) </b></td>
                  <td bgcolor="#ffffff">
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_ko_sentence_000002.wav" type="audio/wav">
@@ -557,7 +557,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>English data only (KOEN-EN) </b></td>
+                 <td><b>English data only (EN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_en_sentence_000002.wav" type="audio/wav">
@@ -578,7 +578,7 @@ h2 {
                  </td>
               </tr>
 	      <tr>
-                 <td><b>Mixed data Korean+English (Mixed KOEN) </b></td>
+                 <td><b>Mixed data Korean+English (KO + EN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_koen_sentence_000002.wav" type="audio/wav">
@@ -599,7 +599,7 @@ h2 {
                  </td>
               </tr>
 	      <tr>
-                 <td><b>Mixed data Korean+extraEnglish (KOEN-KO+extraEN) </b></td>
+                 <td><b>Mixed data Korean+extraEnglish (KO + EN*) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_ko_sato_sentence_000002.wav" type="audio/wav">
@@ -617,7 +617,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data English+extraKorean (KOEN-EN+extraKO) </b></td>
+                 <td><b>Mixed data English+extraKorean (EN + KO*) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_en_ygk_sentence_000002.wav" type="audio/wav">
@@ -646,7 +646,7 @@ h2 {
 		 <th>Japanese</th>
               </tr>
               <tr>
-                 <td><b>Korean data only (KOEN-KO) </b></td>
+                 <td><b>Korean data only (KO) </b></td>
                  <td bgcolor="#ffffff">
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_ko_sentence_000004.wav" type="audio/wav">
@@ -667,7 +667,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>English data only (KOEN-EN) </b></td>
+                 <td><b>English data only (EN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_en_sentence_000004.wav" type="audio/wav">
@@ -688,7 +688,7 @@ h2 {
                  </td>
               </tr>
 	      <tr>
-                 <td><b>Mixed data Korean+English (Mixed KOEN) </b></td>
+                 <td><b>Mixed data Korean+English (KO + EN) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_koen_sentence_000004.wav" type="audio/wav">
@@ -709,7 +709,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data Korean+extraEnglish (KOEN-KO+extraEN) </b></td>
+                 <td><b>Mixed data Korean+extraEnglish (KO + EN*) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_ko_sato_sentence_000004.wav" type="audio/wav">
@@ -727,7 +727,7 @@ h2 {
                  </td>
               </tr>
 	      <tr>
-                 <td><b>Mixed data English+extraKorean (KOEN-EN+extraKO) </b></td>
+                 <td><b>Mixed data English+extraKorean (EN + KO*) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioB/koen_en_ygk_sentence_000004.wav" type="audio/wav">
@@ -760,7 +760,7 @@ h2 {
                  <th>Spanish</th>
               </tr>
               <tr>
-                 <td><b>Mandarin data only (ZHEN-ZH) </b></td>
+                 <td><b>Mandarin data only (ZH) </b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioX/zhen_zh_0001_00010.wav" type="audio/wav">
@@ -769,7 +769,7 @@ h2 {
                  </td>
               </tr>
 	      <tr>
-                 <td><b>English data only (ZHEN-EN) </b></td>
+                 <td><b>English data only (EN) </b></td>
                  <td bgcolor="#ffffff">
                    <audio controls style="width: 300px;">
                      <source src="./audioX/zhen_en_0001_00010.wav" type="audio/wav">
@@ -778,7 +778,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data Mandarin+English (Mixed ZHEN)</b></td>
+                 <td><b>Mixed data Mandarin+English (ZH + EN)</b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioX/zhen_zhen_0001_00010.wav" type="audio/wav">
@@ -797,7 +797,7 @@ h2 {
                  <th>Spanish</th>
               </tr>
               <tr>
-                 <td><b>Mandarin data only (ZHEN-ZH) </b></td>
+                 <td><b>Mandarin data only (ZH) </b></td>
                  <td bgcolor="#ffffff">
                    <audio controls style="width: 300px;">
                      <source src="./audioX/zhen_zh_0001_0001.wav" type="audio/wav">
@@ -806,7 +806,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>English data only (ZHEN-EN) </b></td>
+                 <td><b>English data only (EN) </b></td>
                  <td bgcolor="#ffffff">
                    <audio controls style="width: 300px;">
                      <source src="./audioX/zhen_en_0001_0001.wav" type="audio/wav">
@@ -815,7 +815,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data Mandarin+English (Mixed ZHEN)</b></td>
+                 <td><b>Mixed data Mandarin+English (ZH + EN)</b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioX/zhen_zhen_0001_0001.wav" type="audio/wav">
@@ -836,7 +836,7 @@ h2 {
                  <th>Spanish</th>
               </tr>
               <tr>
-                 <td><b>Korean data only (KOEN-KO) </b></td>
+                 <td><b>Korean data only (KO) </b></td>
                  <td bgcolor="#ffffff">
                    <audio controls style="width: 300px;">
                      <source src="./audioX/koen_ko_0001_00010.wav" type="audio/wav">
@@ -845,7 +845,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>English data only (KOEN-EN) </b></td>
+                 <td><b>English data only (EN) </b></td>
                  <td bgcolor="#ffffff">
                    <audio controls style="width: 300px;">
                      <source src="./audioX/koen_en_0001_00010.wav" type="audio/wav">
@@ -854,7 +854,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data Korean+English (Mixed KOEN)</b></td>
+                 <td><b>Mixed data Korean+English (KO + EN)</b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioX/koen_koen_0001_00010.wav" type="audio/wav">
@@ -873,7 +873,7 @@ h2 {
                  <th>Spanish</th>
               </tr>
               <tr>
-                 <td><b>Korean data only (KOEN-KO) </b></td>
+                 <td><b>Korean data only (KO) </b></td>
                  <td bgcolor="#ffffff">
                    <audio controls style="width: 300px;">
                      <source src="./audioX/koen_ko_0001_0001.wav" type="audio/wav">
@@ -882,7 +882,7 @@ h2 {
                  </td>
               </tr>
 	      <tr>
-                 <td><b>English data only (KOEN-EN) </b></td>
+                 <td><b>English data only (EN) </b></td>
                  <td bgcolor="#ffffff">
                    <audio controls style="width: 300px;">
                      <source src="./audioX/koen_en_0001_0001.wav" type="audio/wav">
@@ -891,7 +891,7 @@ h2 {
                  </td>
               </tr>
               <tr>
-                 <td><b>Mixed data Korean+English (Mixed KOEN)</b></td>
+                 <td><b>Mixed data Korean+English (KO + EN)</b></td>
                  <td>
                    <audio controls style="width: 300px;">
                      <source src="./audioX/koen_koen_0001_0001.wav" type="audio/wav">
