@@ -51,7 +51,7 @@ h2 {
     <p></p>
 <br>
 
-    <h2>There are two target speakers, the first one speaks Mandarin and English fluently, and the second speaks Korean and English fluently. For each table, each row represent different development dataset used to adapt the base multilingual acoustic model. Different target languages for synthesis are presented in each column. </h2>
+    <h2>There are two target speakers, the first one speaks Mandarin and English fluently, and the second speaks Korean and English fluently. For each table, each row represents different adaptation dataset used to adapt the base multilingual acoustic model. Different target languages for synthesis are presented in each column. </h2>
 
         
     <h2> A bilingual Mandarin/English target speaker: </h2>
