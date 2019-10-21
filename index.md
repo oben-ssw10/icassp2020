@@ -46,7 +46,7 @@ h2 {
   </head>
   <body>
 
-    <h1 align="center">Samples for "Speaker Adaptation of Multilingual Acoustic Model for Cross-language Synthesis"</h1>
+    <h1 align="center">Samples for "Speaker Adaptation of a Multilingual Acoustic Model for Cross-language Synthesis"</h1>
 
     <p></p>
 <br>
